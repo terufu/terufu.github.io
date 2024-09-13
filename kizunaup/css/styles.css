@@ -10942,7 +10942,7 @@ header.masthead h1, header.masthead .h1 {
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
-    min-height: 40rem;
+    min-height: 61rem; /*org40*/
     padding-top: 4.5rem;
     padding-bottom: 0;
   }
@@ -10994,3 +10994,13 @@ header.masthead h1, header.masthead .h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+
+
+
+
+
+/* 完全追加 */
+.jirei-img {width: 100%;}
+
+
