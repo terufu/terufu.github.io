@@ -8210,6 +8210,18 @@ textarea.form-control-lg {
   background-image: var(--bs-gradient) !important;
 }
 
+
+
+
+/*step(進展の流れ)の背景*/
+.bg-step {
+  --bs-bg-opacity: 1;
+  background-color: rgb(221 134 26) !important;
+}
+
+
+
+
 .user-select-all {
   -webkit-user-select: all !important;
      -moz-user-select: all !important;
@@ -10942,7 +10954,7 @@ header.masthead h1, header.masthead .h1 {
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
-    min-height: 61rem; /*org40*/
+    min-height: 66rem; /*org40*/
     padding-top: 4.5rem;
     padding-bottom: 0;
   }
@@ -11001,6 +11013,7 @@ header.masthead h1, header.masthead .h1 {
 
 
 /* 完全追加 */
+.upimg-img {width: 100%;}
 .jirei-img {width: 100%;}
 
 
